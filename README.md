@@ -1,1 +1,1 @@
-![리드미 이름](https://user-images.githubusercontent.com/80955533/130410060-cb38d768-493f-4d91-8133-af69aab7d5cd.jpg)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JinWoongLee&fontSize=68&animation=twinkling)
